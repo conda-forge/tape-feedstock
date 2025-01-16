@@ -4,7 +4,7 @@
 
 [project]
 name = "tape-feedstock"
-version = "3.44.9"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/tape-feedstock"
 authors = ["@conda-forge/tape"]
 channels = ["conda-forge"]
